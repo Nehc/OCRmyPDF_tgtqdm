@@ -1,6 +1,5 @@
 # OCRmyPDF_tgtqdm
-Telegtram tqdm plugin for OCRmyPDF. 
-
+Telegtram tqdm plugin for OCRmyPDF. Show progress in your telegram bot. 
 Usage:
 ```
 ocrmypdf.ocr(input_file, output, language=language,
